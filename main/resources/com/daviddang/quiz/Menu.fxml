@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import de.jensd.fx.glyphs.fontawesome.FontAwesomeIcon?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="800.0" style="-fx-background-color: #242526;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.daviddang.quiz.MenuController">
+   <children>
+      <BorderPane fx:id="bp" prefHeight="500.0" prefWidth="800.0">
+         <left>
+            <Pane prefHeight="460.0" prefWidth="200.0" style="-fx-background-color: #264a6e;" BorderPane.alignment="CENTER">
+               <children>
+                  <JFXButton fx:id="buttonStart" layoutX="43.0" layoutY="44.0" prefHeight="54.0" prefWidth="115.0" styleClass="jfx-button-start" stylesheets="@style.css" />
+                  <VBox layoutX="43.0" layoutY="140.0" prefHeight="164.0" prefWidth="115.0" style="-fx-background-color: transparent;">
+                     <children>
+                        <JFXButton fx:id="btnPravidla" onAction="#pagePravidla" prefHeight="57.0" prefWidth="124.0" style="-fx-background-radius: 20;" styleClass="jfx-button-vbox" stylesheets="@style.css" text="Pravidla" />
+                        <JFXButton fx:id="btnNastaveni" onAction="#pageNastaveni" prefHeight="57.0" prefWidth="124.0" style="-fx-background-radius: 20;" styleClass="jfx-button-vbox" stylesheets="@style.css" text="Nastavení" />
+                        <JFXButton fx:id="btnOkruhy" onAction="#pageOkruhy" prefHeight="57.0" prefWidth="124.0" style="-fx-background-radius: 20;" styleClass="jfx-button-vbox" stylesheets="@style.css" text="Okruhy" />
+                     </children>
+                  </VBox>
+               </children>
+            </Pane>
+         </left>
+         <top>
+            <Pane prefHeight="40.0" prefWidth="800.0" style="-fx-background-color: #18191a;" BorderPane.alignment="CENTER">
+               <children>
+                  <JFXButton layoutX="759.0" layoutY="5.0" minWidth="34.0" onAction="#handleCloseIconClick" prefHeight="30.0" prefWidth="34.0" style="-fx-background-color: transparent;" stylesheets="@style.css">
+                     <graphic>
+                        <FontAwesomeIcon fill="RED" iconName="CLOSE" onMouseClicked="#handleCloseIconClick" size="20" text="" textAlignment="CENTER" wrappingWidth="28.0" />
+                     </graphic>
+                  </JFXButton>
+                  <Text fill="WHITE" layoutX="14.0" layoutY="29.0" strokeType="OUTSIDE" strokeWidth="0.0" text="QUIZ 2.0">
+                     <font>
+                        <Font name="System Bold" size="22.0" />
+                     </font>
+                  </Text>
+               </children>
+            </Pane>
+         </top>
+         <center>
+            <Pane prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+               <children>
+                  <Text fill="#67eb34" layoutX="212.0" layoutY="218.0" strokeType="OUTSIDE" strokeWidth="0.0" text="QUIZ 2.0">
+                     <font>
+                        <Font name="System Bold" size="43.0" />
+                     </font>
+                  </Text>
+                  <Text fill="WHITE" layoutX="165.0" layoutY="252.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Nejlepší quiz ve střední Evropě">
+                     <font>
+                        <Font size="20.0" />
+                     </font>
+                  </Text>
+               </children>
+            </Pane>
+         </center>
+      </BorderPane>
+   </children>
+</Pane>

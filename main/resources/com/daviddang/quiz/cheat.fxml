@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import de.jensd.fx.glyphs.testapps.GlyphsBrowser?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="580.0" prefWidth="926.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.daviddang.quiz.Cheat">
+   <children>
+      <GlyphsBrowser layoutY="6.0" prefHeight="573.0" prefWidth="926.0" />
+   </children>
+</AnchorPane>

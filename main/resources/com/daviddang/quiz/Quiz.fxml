@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import de.jensd.fx.glyphs.fontawesome.FontAwesomeIcon?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<BorderPane fx:id="bpHlavni" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="1080.0" prefWidth="1920.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.daviddang.quiz.QuestionManager">
+   <top>
+      <Pane prefHeight="50.0" prefWidth="600.0" style="-fx-background-color: #18191a;" BorderPane.alignment="CENTER">
+         <BorderPane.margin>
+            <Insets />
+         </BorderPane.margin>
+         <children>
+            <JFXButton fx:id="buttonClose" layoutX="1856.0" layoutY="5.0" onAction="#handleCloseIconClick" prefHeight="38.0" prefWidth="42.0">
+               <graphic>
+                  <FontAwesomeIcon fill="RED" iconName="CLOSE" onMouseClicked="#handleCloseIconClick" size="30" tabSize="20" />
+               </graphic>
+            </JFXButton>
+            <Text fill="WHITE" layoutX="15.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" text="QUIZ 2.0">
+               <font>
+                  <Font name="System Bold" size="30.0" />
+               </font>
+            </Text>
+         </children>
+      </Pane>
+   </top>
+   <center>
+      <Pane fx:id="paneBox1" prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #242526;" stylesheets="@style.css" BorderPane.alignment="CENTER">
+         <children>
+            <Pane fx:id="option1" layoutX="340.0" layoutY="363.0" onMouseClicked="#handleCloseIconClick" prefHeight="136.0" prefWidth="543.0" styleClass="fx-option" stylesheets="@style.css">
+               <children>
+                  <Text fx:id="txtOption1" fill="WHITE" layoutX="1.0" layoutY="82.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="fx-option" text="OPTION#1" textAlignment="CENTER" wrappingWidth="540.6923828125">
+                     <font>
+                        <Font name="System Bold" size="35.0" />
+                     </font>
+                  </Text>
+               </children>
+            </Pane>
+            <Pane fx:id="option2" layoutX="1052.0" layoutY="363.0" prefHeight="136.0" prefWidth="543.0" styleClass="fx-option" stylesheets="@style.css">
+               <children>
+                  <Text fx:id="txtOption2" fill="WHITE" layoutX="1.0" layoutY="82.0" strokeType="OUTSIDE" strokeWidth="0.0" text="OPTION#2" textAlignment="CENTER" wrappingWidth="540.6923828125">
+                     <font>
+                        <Font name="System Bold" size="35.0" />
+                     </font>
+                  </Text>
+               </children>
+            </Pane>
+            <Pane fx:id="option4" layoutX="1052.0" layoutY="570.0" prefHeight="136.0" prefWidth="543.0" styleClass="fx-option" stylesheets="@style.css">
+               <children>
+                  <Text fx:id="txtOption4" fill="WHITE" layoutX="11.0" layoutY="83.0" strokeType="OUTSIDE" strokeWidth="0.0" text="OPTION#4" textAlignment="CENTER" wrappingWidth="540.6923828125">
+                     <font>
+                        <Font name="System Bold" size="35.0" />
+                     </font>
+                  </Text>
+               </children>
+            </Pane>
+            <Pane fx:id="option3" layoutX="340.0" layoutY="570.0" prefHeight="136.0" prefWidth="543.0" styleClass="fx-option" stylesheets="@style.css">
+               <children>
+                  <Text fx:id="txtOption3" fill="WHITE" layoutX="-2.0" layoutY="83.0" strokeType="OUTSIDE" strokeWidth="0.0" text="OPTION#3" textAlignment="CENTER" wrappingWidth="540.6923828125">
+                     <font>
+                        <Font name="System Bold" size="35.0" />
+                     </font>
+                  </Text>
+               </children>
+            </Pane>
+            <Text fx:id="txtQuestion" fill="#67eb34" layoutX="294.0" layoutY="212.0" strokeType="OUTSIDE" strokeWidth="0.0" text="QUIZ QUESTION" textAlignment="CENTER" wrappingWidth="1330.16455078125">
+               <font>
+                  <Font name="System Bold" size="71.0" />
+               </font>
+            </Text>
+            <JFXButton layoutX="822.0" layoutY="820.0" onAction="#nextQuestion" prefHeight="80.0" prefWidth="275.0" styleClass="jfx-button-dalsi" stylesheets="@style.css" text="Další otázka" textFill="WHITE">
+               <font>
+                  <Font name="System Bold" size="32.0" />
+               </font>
+            </JFXButton>
+            <JFXButton fx:id="buttonUkoncitHru" layoutX="886.0" layoutY="909.0" prefHeight="35.0" prefWidth="147.0" styleClass="jfx-button-ukoncitHru" stylesheets="@style.css" text="Ukončit hru" textFill="WHITE">
+               <font>
+                  <Font name="System Bold" size="32.0" />
+               </font>
+            </JFXButton>
+            <BorderPane layoutX="24.0" layoutY="113.0" prefHeight="871.0" prefWidth="261.0">
+               <center>
+                  <VBox prefHeight="200.0" prefWidth="100.0" stylesheets="@style.css" BorderPane.alignment="CENTER">
+                     <children>
+                        <Pane fx:id="pane1" prefHeight="63.0" prefWidth="261.0" styleClass="paneHraciText" stylesheets="@style.css" visible="false">
+                           <children>
+                              <Text fx:id="paneJmeno1" fill="WHITE" layoutX="28.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="paneHraciText" text="Jmeno" />
+                              <Text fx:id="paneBody1" fill="WHITE" layoutX="194.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="paneHraciText" text="body" />
+                           </children>
+                        </Pane>
+                        <Pane fx:id="pane2" prefHeight="63.0" prefWidth="261.0" styleClass="paneHraciText" stylesheets="@style.css" visible="false">
+                           <children>
+                              <Text fx:id="paneJmeno2" fill="WHITE" layoutX="28.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Jmeno" />
+                              <Text fx:id="paneBody2" fill="WHITE" layoutX="194.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" text="body" />
+                           </children>
+                        </Pane>
+                        <Pane fx:id="pane3" prefHeight="63.0" prefWidth="261.0" styleClass="paneHraciText" stylesheets="@style.css" visible="false">
+                           <children>
+                              <Text fx:id="paneJmeno3" fill="WHITE" layoutX="28.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Jmeno" />
+                              <Text fx:id="paneBody3" fill="WHITE" layoutX="194.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" text="body" />
+                           </children>
+                        </Pane>
+                        <Pane fx:id="pane4" prefHeight="63.0" prefWidth="261.0" styleClass="paneHraciText" stylesheets="@style.css" visible="false">
+                           <children>
+                              <Text fx:id="paneJmeno4" fill="WHITE" layoutX="28.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Jmeno" />
+                              <Text fx:id="paneBody4" fill="WHITE" layoutX="194.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" text="body" />
+                           </children>
+                        </Pane>
+                        <Pane fx:id="pane5" prefHeight="63.0" prefWidth="261.0" styleClass="paneHraciText" stylesheets="@style.css" visible="false">
+                           <children>
+                              <Text fx:id="paneJmeno5" fill="WHITE" layoutX="28.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Jmeno" />
+                              <Text fx:id="paneBody5" fill="WHITE" layoutX="194.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" text="body" />
+                           </children>
+                        </Pane>
+                        <Pane fx:id="pane6" prefHeight="63.0" prefWidth="261.0" styleClass="paneHraciText" stylesheets="@style.css" visible="false">
+                           <children>
+                              <Text fx:id="paneJmeno6" fill="WHITE" layoutX="28.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Jmeno" />
+                              <Text fx:id="paneBody6" fill="WHITE" layoutX="194.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" text="body" />
+                           </children>
+                        </Pane>
+                        <Pane fx:id="pane7" prefHeight="63.0" prefWidth="261.0" styleClass="paneHraciText" stylesheets="@style.css" visible="false">
+                           <children>
+                              <Text fx:id="paneJmeno7" fill="WHITE" layoutX="28.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Jmeno" />
+                              <Text fx:id="paneBody7" fill="WHITE" layoutX="194.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" text="body" />
+                           </children>
+                        </Pane>
+                        <Pane fx:id="pane8" prefHeight="63.0" prefWidth="261.0" styleClass="paneHraciText" stylesheets="@style.css" visible="false">
+                           <children>
+                              <Text fx:id="paneJmeno8" fill="WHITE" layoutX="28.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Jmeno" />
+                              <Text fx:id="paneBody8" fill="WHITE" layoutX="194.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" text="body" />
+                           </children>
+                        </Pane>
+                        <Pane fx:id="pane9" prefHeight="63.0" prefWidth="261.0" styleClass="paneHraciText" stylesheets="@style.css" visible="false">
+                           <children>
+                              <Text fx:id="paneJmeno9" fill="WHITE" layoutX="28.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Jmeno" />
+                              <Text fx:id="paneBody9" fill="WHITE" layoutX="194.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" text="body" />
+                           </children>
+                        </Pane>
+                        <Pane fx:id="pane10" prefHeight="63.0" prefWidth="261.0" styleClass="paneHraciText" stylesheets="@style.css" visible="false">
+                           <children>
+                              <Text fx:id="paneJmeno10" fill="WHITE" layoutX="28.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Jmeno" />
+                              <Text fx:id="paneBody10" fill="WHITE" layoutX="194.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" text="body" />
+                           </children>
+                        </Pane>
+                        <Pane fx:id="pane11" prefHeight="63.0" prefWidth="261.0" styleClass="paneHraciText" stylesheets="@style.css" visible="false">
+                           <children>
+                              <Text fx:id="paneJmeno11" fill="WHITE" layoutX="28.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Jmeno" />
+                              <Text fx:id="paneBody11" fill="WHITE" layoutX="194.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" text="body" />
+                           </children>
+                        </Pane>
+                        <Pane fx:id="pane12" prefHeight="63.0" prefWidth="261.0" styleClass="paneHraciText" stylesheets="@style.css" visible="false">
+                           <children>
+                              <Text fx:id="paneJmeno12" fill="WHITE" layoutX="28.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Jmeno" />
+                              <Text fx:id="paneBody12" fill="WHITE" layoutX="194.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" text="body" />
+                           </children>
+                        </Pane>
+                        <Pane fx:id="pane13" prefHeight="63.0" prefWidth="261.0" styleClass="paneHraciText" stylesheets="@style.css" visible="false">
+                           <children>
+                              <Text fx:id="paneJmeno13" fill="WHITE" layoutX="28.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Jmeno" />
+                              <Text fx:id="paneBody13" fill="WHITE" layoutX="194.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" text="body" />
+                           </children>
+                        </Pane>
+                        <Pane fx:id="pane14" prefHeight="63.0" prefWidth="261.0" styleClass="paneHraciText" stylesheets="@style.css" visible="false">
+                           <children>
+                              <Text fx:id="paneJmeno14" fill="WHITE" layoutX="28.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Jmeno" />
+                              <Text fx:id="paneBody14" fill="WHITE" layoutX="194.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" text="body" />
+                           </children>
+                        </Pane>
+                     </children>
+                  </VBox>
+               </center>
+            </BorderPane>
+         </children>
+      </Pane>
+   </center>
+</BorderPane>

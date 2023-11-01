@@ -1,0 +1,184 @@
+0;Kdy byl upálen Mistr Jan Hus?;6.7.1415;6.7.1314;6.7.1415;7.6.1415;9.7.1516
+1;Jaká je nadmořská výška mrtvého moře?;420metrů pod mořem;0;380 metrů pod mořem;420metrů pod mořem;120 metrů nad mořem
+2;Kolik litrů je decimetr krychlový;1;0.1;1;10;100
+3;Jaké je nejmenší prvočíslo?;2;1;2;3;5
+4;Jakou hodnotu má Ludolfovo číslo?;3.14159;3.14159;3.15149;3.16159;3.14156
+5;Na kolik let se volí prezident v ČR?;5;4;5;6;7
+6;Kolik má Země světadílů?;7;5;6;7;8
+7;Kolik je divů světa?;7;6;7;8;9
+8;Kolik dětí měla Marie Terezie;16;9;10;13;16
+9;Kolik znamení ma zvěrokruh?;12;10;11;12;13
+10;Kolik párů žeber má průměrný člověk?;12;10;11;12;13
+11;V jakém věku chodili studenti do Bradavic?;11;10;11;12;13
+12;Kolik srpců je jeden Galeon?;17;11;17;21;23
+13;Kolik krajů má Česká republika?;14;12;14;16;17
+14;Kolik figurek má jeden hráč šachu?;16;16;18;20;24
+15;Kolik procent hmotnosti tvoří u člověka krev?;8;8;16;31;46
+16;Jaká je maximální rychlost v obytné zóně?;20;20;30;40;50
+17;Kolik svrčků je jeden srpec?;29;25;29;31;33
+18;Jak dlouho trvala 30 letá válka?;30;28;29;30;31
+19;Kolik má průměrný člověk zubů?;32;28;30;32;34
+20;Kolikátý prezident byl Donald Trump?;45;43;44;45;47
+21;Kolik procent Země tvoří Voda?;71;63;68;71;73
+22;Kolik členů má Parlament ČR?;281;81;181;200;281
+23;Jaká je součet vnitřních úhlů rovnostranného trojúhelníku?;180;90;180;210;360
+24;Jaká je v česku největší povolené rychlost na dálnici?;130;120;130;140;150
+25;Kolik kostí má lidské tělo?;206;195;206;224;235
+26;Na jaké bankovce je Božena němcová?;500;200;500;1000;2000
+27;V jakém roce byla vydána Zlatá Bula Sicilská?;1212;1202;1212;1242;1262
+28;Kolik měří směžka?;1603;1623;1603;1613;1601
+29;Kdy byl založen oddíl národní házené TJ Sokol Svinov?;1922;1919;1920;1922;1925
+30;V jakém roce spadly jaderné bomby na Hirošimu a Nagasaki?;1945;1941;1943;1945;1946
+31;Kdy byl založen Apple?;1976;1968;1974;1976;1979
+32;Kdy vznikla charta 77?;1977;1971;1973;1975;1977
+33;Kdy vznikl Facebook?;2004;1998;2003;2004;2007
+34;Kdy vznikl YouTube?;2005;1999;2003;2005;2008
+35;V jakém roce ČR vstoupila do EU?;2004;2004;2005;2009;2011
+36;Kdy vnikla česká republika?;1. ledna 1993;1.ledna 1989;1. ledna 1990;1. ledna 1991;1. ledna 1993
+37;Kdy nastává jarní rovnodennost?;20. března;20. března;21. března;23. března;21. dubna
+38;Jakou část celku tvoří promile?;1 tisícinu;1 desetinu;1 setinu;1 tisícinu;Tvoří celek
+39;Jak dlouhé je tenké střevo?;3-4 metry;1-2 metry;2-3 metry;3-4 metry;4-5 metrů
+40;V jakém století se odehrávala 100 letá válka?;14-15. století;12-13. století;13-14. století;14-15. století;15-16. století
+41;V jakém století Kolumbus objevil ameriku?;15. stoeltí;13. století;14. století;15. stoeltí;16. století
+42;V jakém století se odehrávala 30 letá válka?;17. století;16. století;17. století;18. století;19. století
+43;Kdy začala a skončila 1. světová válka?;1912-1918;1912-1918;1913-1918;1914-1918;1914-1920
+44;Kdy začala a skončila 2. světová válka?;1939-1945;1938-1945;1939-1945;1939-1946;1940-1946
+45;V jakém roce ČR vstoupila do NATO?;1999;1999;2001;2004;2007
+46;Kolik je 1 palec na cm?;2,52cm;"2;52cm";"2;48cm";"2;5cm";"2;56cm"
+47;Jak dlouho trvá než se země otočí kolem své osy?;24h;24h;1 měsíc;1 rok;Země se netočí kolem své osy
+48;Kolik sparťanů vyrazilo proti Peršanům s králem Leonidem?;300;300;380;400;900
+49;Jakou hodnotu má gravitační síla na zemi?;10N;5N;8N;10N;15N
+50;V jakém roce zemřel Julius Caesar?;44 B.C.;62 B.C.;54 B.C.;44 B.C.;36 B.C.
+51;Kolik měří nejvyšší hora světa?;8848m;8488m;8884m;8848m;8846m
+52;Na koho byl v praze proveden nevydařený atentát 27. května 1942?;Heinrich Himmler;Adolf Hittler;Heinrich Himmler;Heinz Guderian;Johann Shmidt
+53;Co je největší létavý pták?;Albatros stěhovavý;Albatros stěhovavý;Orel skalní;Káně velká;Sup bělohlavý
+54;Kdo z uvedených vytvořil kámen mudrců?;Nicolas Flamel;Albus brumbál;Merlin;Godrik Nebelvír;Nicolas Flamel
+55;Kdo pronesl známou větu: Přišel jsem, viděl jsem, zvítězil jsem?;Julius Caesar;Alexandr Veliký;Julius Caesar;Marcus Antonius;Hernána Cortése
+56;Kdo vynalezl dynamit?;Alfred Nobel;Alfred Nobel;Thomas Alva Edison;Jára Cimrman;Enrico Fermi
+57;Který je největší stát USA?;Alijaška;Alijaška;Texas;Florida;California
+58;Severní hranici Španělska s Francií tvoří pohoří s názvem?;Pyreneje;Alpy;Pyreneje;Kordillery;Andy
+59;Hlavní město Belgie?;Brusel;Amterdam;Brusel;Milán;Antverpy
+60;Jaké je nejvyšší pohoří?;Himaláje;Andy;Himaláje;Pamír;Alpy
+61;Jaká byla největší říše historie?;Anglická říše;Anglická říše;Římská republika;Mongolská říše;Osmanská říše
+62;Jaké národnosti byl Kryštof Kolumbus?;Italské;Anglické;Italské;Španělské;Holandské
+63;Mezi kým s odehrávala 100 letá válka?;Anglie a Francie;Anglie a Francie;Franská říše a Vikingové;Osmanská říše a Rakousko-Uhersko;Římská republika a Kartágo
+64;Jaké povolaní má Indiana Jones?;Archeolog;Archeolog;Profesor;Lékař;Cestovatel
+65;Jak se jmenoval vůdce největší vzpoury otroků v římských dějinách?;Spartakus;Atikus;Julius;Spartakus;Gannicus
+66;Jak se jmenoval 4. mušketýr?;Dartaňan;Atos;Portos;Aramis;Dartaňan
+67;Kdo vynalezl Telefon;Alexander Graham Bell;Benjamin Franklin;Thomas Alva Edison;Alexander Graham Bell;Johann Philipp Reis
+68;Hlavní město Norska?;Oslo;Bergen;Helsinky;Oslo;Göteborg
+69;Kapitán jaké lodi byl Davy Jones?;Bludný Holanďan;Bludný Holanďan;Černá perla;Pomsta královny Anny;Zhouba oceánů
+70;Kdo je na bankovce s hodnotou 5000kč?;Tomáš Gariggue Masaryk;Božena Němcová;Karel IV.;Tomáš Gariggue Masaryk;František Palacký
+71;Hlavní město Rumunska?;Bukurešť;Brašov;Budapešť;Kluž;Bukurešť
+72;Jaké je největší jezero na světě?;Kaspické moře;Černé moře;Kaspické moře;Balaton;Michigan
+73;Ve které zemi se narodil Albert Einstein?;Německo;Česko;Německo;Rakousko;Švýcarsko
+74;Ve kterém státě kromě Severní Korei se nesmí prodávat Coca-Cola?;Kuba;Čína;Irán;Demokratická republika kongo;Kuba
+75;Co je největší sladkovodní ryba?;Čínský veslonos (Jeseter);Čínský veslonos (Jeseter);Vyza Velká;Sumec bahení;Arapaima velká
+76;Komu patří Grónsko?;Dánsku;Dánsku;Holandsko;Je samostatný stát;USA
+77;Jak se jmenuje nejrychejší savec?;Gepard;Delfín;Gepard;Tygr;Antilopa
+78;Kdo sestavil periodickou tabulku prvků?;Dmitrij Ivanovič Mendělejev;Dmitrij Ivanovič Mendělejev;Isaac Newton;Alfred Nobel;Vladimir Ivanovič Vernadskij
+79;Kde byla objevena soška ženy Venuše?;Dolní Věstonice;Dolní Věstonice;Horní věstonice;Morávka;Krtín
+80;Mravenec lesní paří mezi?;Blanokřídlé;Dvoukřídlé;Blanokřídlé;Ploštice;Stejnokřídlé
+81;Nejvyšší hora Evropy?;Elbrus;Elbrus;Mont Blanc;K2;Matterhorn
+82;Jak se jmenovala Princezna ze Mlejna?;Eliška;Eliška;Anička;Jana;Emma
+83;Jak se jmenuje nestarší dochované litarární dílo?;Epos o Gilgamešovi;Epos o Gilgamešovi;Bible;Chamirapiho zákoník;Starý zákon
+84;Jaký je nejmenší kontinent?;Austrálie;Evropa;Austrálie;Jižní amerika;Antarktida
+85;Kdo byl nejmladší z hobitů?;Pipin;Frodo;Sam;Pipin;Smíšek
+86;Největší ostrov na Světě?;Grónsko;Grónsko;Austrálie;Madagaskar;Nová guinea
+87;K jakému rodu patřil karel IV.?;Lucemburkové;Habsburkové;Lucemburkové;Šternberkové;Schwarzenbergové
+88;Kdo složil českou hymnu?;Josef Kajetán Tyl;Hans Krása;Josef Kajetán Tyl;Antonín Dvořák;Leoš Janáček
+89;Jak se slovensky jmenují Helga z Mrzimoru?;Brigita Bifľomorová;Helga Bifľomorová;Helena Bifľomorová;Brigita Bifľomorová;Hilda Bifľomorová
+90;Hlavní město Finska?;Helsinky;Helsinky;Tempere;Turku;Göteborg
+91;Jak se jmenoval král v Shrekovi?;Herold;Herold;Krasoň;Harold;Farquaad
+92;Do jaké skupiny živočichů patří chobotnice?;Hlavonožec;Hlavonožec;Plaz;Chobotnatci;Korýš
+93;K čemu sloužili Pyramidy v Egyptě?;Hrobky Faraonů;Hrobky Faraonů;K uctívání bohů;K uctívání Králů;Pomáhali se orientovat v poušti
+94;Jaká je největší pyramida na světě?;Chufuova(Cheopsova) pyramida;Chufuova(Cheopsova) pyramida;Khafreova pyramida;Velká pyramida Cholula;Červená pyramida
+95;V jakém městě je Burj Chalífa?;Dubaj;Istanbul;Abú Dhabí;Bahrajn;Dubaj
+96;Jaké město se jmenovala Konstantinopol?;Istanbul;Istanbul;Ankara;Sofie;Stalingrad
+97;Který stát má nejvyšší počet ostrovů?;Indonésie;Japonsko;Indonésie;Anglie;Norsko
+98;Kdo v hokeji nosí číslo 68?;Jarda Jágr;Jarda Jágr;David Patrňák;Tomáš Vokoun;Dominik Hašek
+99;Kde se náchází Zeď Nářků?;Jerůzalém;Jerůzalém;Berlín;Moskva;Istanbul
+100;Jak se původně jemnoval Karel IV.?;Václav;Jindřich;Václav;Karel;Jan
+101;Jak se jmenoval první člověk ve vesmíru?;Jurij Alexejevič Gagarin;Jurij Alexejevič Gagarin;Neil Armstrong;Buzz Aldrin;Michael Collins
+102;Nejvyšší hora Afriky?;Kilimandžáro;K2;Kilimandžáro;Matterhorn;Čangce
+103;co z uvedených není heslo do společenské místnosti Nebelvíru?;Čistá krev;Kaput Draconis;Fortuna major;Mimbulus mimbletonia;Čistá krev
+104;Kdo nechal zhotovit korunovační klenoty?;Karel IV.;Karel II;Václav III.;Karel IV.;Jan Lucemburský
+105;Kdo postavil Karlův most?;Karel IV.;Karel II.;Václav III.;Karel IV.;Karel V.
+106;Kdo vládl v Egyptě?;Faraon;Kněží;Král;Faraon;Císař
+107;Hlavní město Dánska?;Kodaň;Kodaň;Dublin;Rotterdam;Hamburg
+108;Hlavní město Černé hory?;Podgorica;Kolašín;Nikšíč;Podgorica;Žabljak
+109;Co označují punské války?;Konflikt mezi Římany a Kartágem;Konflikt mezi Římany a Kartágem;Konflikt mezi Římany a Řeky;Konflikt mezi Makedonií a Persií;Konflikt mezi Persií a Řeky
+110;Jaké je největší moře na světě?;Filipínské moře;Korálové moře;Filipínské moře;Jihočínské moře;Karibské moře
+111;Co je to osifikace?;Kostnatění;Kostnatění;Rozpad tkání;Způsob rozmnožování jednobuněčných organismů;Přenos informace z buňky do buňky
+112;Z čeho se vyrábí hedvábí?;Kukel Bource Morušového;Kukel Bource Morušového;Vláken bavlny;Z umělých vláken;Z japonského lnu
+113;Na jaké japosnké město dopadla jaderná bomba jako první?;Hirošima;Kumamoto;Nagasaki;Osaka;Hirošima
+114;Jaká je nejdelší evropská řeka?;Volha;Labe;Volha;Rýn;Temže
+115;Jakým písmenem se značí Hmotnost?;m;m;M;h;w
+116;Jak se jmenuje nejhlubší propast v ČR?;Hranická propast;Macocha;Hranická propast;Pravčická propast;Hodonínská propast
+117;Do jaké skupiny dužnatých plodů patří rajče?;Bobule;Malvice;Peckovice;Bobule;Lusky
+118;Hlavní město Irska?;Dublin;Manchester;Glasgow;Dublin;Belfast
+119;Jak napíšeš rok 1654 v římských číslech?;MDCLIV;MDCLIV;MCDLIV;DCMLIV;CDMLIV
+120;Jaký je nejmneší stát v evropě (kromě vatikánu)?;Monaco;Monaco;Andora;Malta;Lucembursko
+121;Hlavní město Kanady?;Ottawa;Montreal;Ottawa;Québec;Toronto
+122;Jak se jmenoval Simbův otec?;Mufasa;Mufasa;Zuzu;Scar;Mustafa
+123;Jak se jmenoval Simbův strýc?;Scar;Mufasa;Scar;Mustafa;Zuzu
+124;Jak řekové dobili Tróju?;Pomocí Trojského koně;Nedobili;Vypálili město;Pomocí Trojského koně;Vyhladověli obyvatele
+125;Kdo patřil do osy zla v druhé světové válce?;Německo-Itálie-Japonsko;Německo-Itálie-Japonsko;Německo-Itálie-Rusko;Německo-Itálie-Španělsko;
+126;Jak se jmenoval Architekt pyramid z filmu Asterix a Obelix?;Neuminix;Neuminix;Otis;Amonbofis;Caius Antivirus
+127;Jak se původně jmenoval New York?;New Amsterdam;New Amsterdam;Neměl jiný název;Nový York;New London
+128;Jak se jmenuje největší řeka v Africe?;Nil;Nil;Congo;Niger;Zambezi
+129;Jaká země má nejvíce medailí z ZOH?;Norsko;Norsko;USA;Rusko;Čína
+130;Co je ve znaku Svinova?;Obilný snop a Okřídlené vlakové kolo;Obilný snop a Okřídlené vlakové kolo;Obilný snop a Srp;Ryby;Krumpáč a kladivo
+131;Co znamené zkratka OSN?;Organizace Spojených Národů;Organizace Spojených Národů;Organizace Sjednocených národů;Ostravský Sněm Novinářů;Ozbrojený Svaz Norska
+132;Který český film nezískal Oskara?;Lásky jedné plavovlásky;Ostře sledované vlaky;Kolja;Lásky jedné plavovlásky;Obchod na korze
+133;Jaký oceán je největší?;Pacifický;Pacifický;Atlanský;Severní ledový;Indický
+134;Jak se jmenovla kočka školníka Filche z Harryho Pottera?;Paní Norisová;Paní Norisová;Paní herisová;Černoočko;Uršula
+135;Kde leží největší hradní komplex na světě?;Praha;Paříž;Berlín;Praha;Londýn
+136;Jak se jmenuje vůdce autobotů? (Transformers);;Optimus Prime;;;
+137;Jaké jádro měla harryho hůlka, kterou získal od Malfoye?;Žíně testrála;Péro fénixe;Žíně z jednorožce;Blána z dračího zdrce;Žíně testrála
+138;Kdo natočil nejdražší český film?;Petr Jákl;Petr Jákl;Miloš Forman;Jan Svěrák;Jiří Menzel
+139;Co označuje Bartolomějská noc?;Masakr Hugenotů;Popravu Marie Antoinetty;Fracouzskou revoluci;Masakr hugenotů;Vyhození vládců z okna
+140;Kdo pomáhal Forestu Gampovi na lodi?;Poručík Dan;Poručík Dan;Buba;Wesley;Byl tam sám
+141;Nejhlubší místo na světě?;Prohlubeň Challenger;Prohlubeň Challenger;Prohlubeň Milwaukee;Příkop Diamantina;Litkeho hlubina
+142;Co je to pepsin?;Žaludeční enzym;Přísada Pepsi Coly;Střevní bakterie;Chemický prvek;Žaludeční enzym
+143;Jak se slovensky jmenují Gordik Nebelvír?;Richard Chrabromil;Richard Chrabromil;Rodrik Chrabromil;Godric Grifindor;Godrik Chrabromil
+144;hlavní město Holandska?;Amsterdam;Rotterdam;Amsterdam;Brusel;Hamburg
+145;Jak se slovensky jmenují Rowena z Havraspáru?;Brunhilda Bistrohlavová;Rowena Rawenclav;Brunhilda Bistrohlavová;Rowena Bistrohlavová;Rowena Havraspárová
+146;Jaké moře odděluje Asii a Afriku;Rudé;Rudé;Černé;Mrtvé;Africké
+147;Jaké nejsušší místo planety?;Ruská Astrachaň;Ruská Astrachaň;Sahara;Nevadská poušť;Atacama
+148;Do jaké skupiny živočichů patří žralok?;Paryba;Ryba;Paryba;Savec;Plaz
+149;Co označuje Eufrat a Tigris?;Řeky;Řeky;Hory;Hvězdy;Bohy z egyptských pověstí
+150;Kdo byl plebejec?;Římský občan bez šlechtického původu;Římský otrok u dvora;Římský občan bez šlechtického původu;Otrok na Římských lodích;Chudý obyvatel říma (bezdomovec)
+151;Jakým písmenem se značí rychlost;v;s;v;t;R
+152;Jaká řeka teče přez Paříž?;Seina;Seina;Temže;Labe;Dunaj
+153;Jak se jmenují nejvyšší stromy světa?;Sekvoj vždyzelená;Sekvoj vždyzelená;Smrk vysoký;Sekvoj obrovská;Borovice americká
+154;Kdo řídil Řím, když se stal republikou?;Senát;Senát;Caesar;Nikdy se nestal republikou;Král
+155;Jak se jmenuje tygr z knihy džunglí?;Ser Chán (šerchán);Ser Chán (šerchán);Balú;Ká;Akéla
+156;Jak se jmenovala umělá inteligence z Terminátora?;Skynet;Skynet;Starlink;Nekron;Spacelink
+157;Největší savec na světě?;Plejtvák obrovský;Slon Africký;Vyza Velká;Velryba Grónská;Plejtvák obrovský
+158;Co je pakt Ribbentrop–Molotov?;Smlouva o spojenectví mezi Německem a SSSR;Smlouva o ukončení 1. sv. války;Smlouva o spojenectví mezi Německem a SSSR;Smlouva o vytvoření osy zla;Pakt uzavřený před atentátem na Heinricha Himmlera
+159;Jak se lidově označuje Prvosenka jarní?;Petrklíč;Sněženka;Petrklíč;Sedmikráska;Kopretina
+160;Hlavní město Řecka?;Athény;Soluň;Larisa;Athény;Sparta
+161;Hlavní město Chorvatska?;Záhřeb;Split;Záhřeb;Zadar;Sarajevo
+162;Jaký mise jako první přistál na měsíci?;Apollo 11;Sputnik 1;Apollo 10;Apollo 11;Apollo 13
+163;Na co se dělí Bible?;Starý a Nový zákon;Starý a Nový zákon;Každý svatý má svoji část;Nedělí se;Židovskou a Křesťanskou část
+164;Do jakého moře se vlévá dunaj?;Černého;Středozemního;Kaspického;Černého;Severního
+165;Hlavní město Austrálie?;Canberra;Sydney;Canberra;Melbourne;New Walles
+166;Jaké sériové označení měl starý Terminátor?;T-800;T-800;T-600;T-1000;T-3000
+167;Jaký film byl v Americe nejdéle promítaný?;Titanic;Titanic;Avatar 1;Avengers: Infinity war;Pulp Fiction
+168;S kým Rocky zápasil v Rockym 4?;Ivan Drago;Tommy Gun;Clubber Lang;Ivan Drago;Apollo Creed
+169;Jaká je nejlidnatější země?;Čína;USA;Indie;Čína;Indonésie
+170;Jaký stát je jako 2. největší dle rozlohy?;Kanada;USA;Kanada;Čína;Brazílie
+171;Do jaké skupiny hornin patří žula?;Vyvřelé;Usazené;Vyvřelé;Přeměněné;Oxidy
+172;Proč je přestupný rok?;Den netrvá 24 hodin;Už mě nic nenapadlo;Aby se srovnaly dny v měsíci;Nikdo neví;Den netrvá 24 hodin
+173;Jakým písmenem se značí vzdálenost?;S;v;D;m;S
+174;Kde se tvoří červené krvinky?;V kostní dřeni;V játrech;V ledvinách;V míše;V kostní dřeni
+175;Hlavní město Lotyšska?;Riga;Vilnus;Riga;Tallin;Minsk
+176;Jaká je nejdelší řeka v ČR?;Vltava;Vltava;Labe;Morava;Ohře
+177;Co byl úkolem projektu Manhattan?;Výzkum jaderných bomb;Výzkum jaderných bomb;Postavit první jadernou ponorku;Vyvynutí biologických zbraní;Návrh budovy Opery na Manhattonu
+178;V jakém městě byla dvojčata?;New York;Washington D.C.;Los Angeles;San Francisco;New York
+179;Hlavní město Nového zélandu?;Wellington;Wellington;Auckland;Christchurch;Port Moresby
+180;Z jaké rostliny se vyrábí kokain?;Z keře Koka;Z keře Koka;Ze stromu Koka;Vzniká při výrobě léků;Z makovic
+181;K čemu slouží slepé střevo?;Obnovuje střevní mikroflóru;"Zbytečné; proto si ho lidé nechávají odstranit";Obnovuje střevní mikroflóru;Zamezuje ucpávání střev;je to pozůstatek po pupeční šňůře
+182;Co zničilo roku 79 město pompeje?;Sopka;Zemětřesení;Tsunami;Sopka;Mor
+183;Které zvíře zabije průměrně nejvíce lidí ročně?;Komár;Žralok;Hroch;Komár;Had

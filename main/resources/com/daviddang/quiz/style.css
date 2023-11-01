@@ -1,0 +1,72 @@
+.jfx-button-start {
+    -fx-background-color: #67eb34; /* Barva pozadí pro zelene tlačítko */
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.6), 5, 0, 0, 1); /* Přidá stín tlačítku */
+    -fx-font-size: 16px; /* Nastaví velikost písma */
+    -fx-background-radius: 10px; /* Zakulacuje rohy tlačítka */
+    -fx-font-weight: bold; /* Nastaví písmo na tučné */
+    -fx-text-fill: #000000; /* Nastaví barvu textu na černou */
+}
+
+.jfx-button-start:hover{
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.6), 8, 0, 0, 3);
+}
+
+.jfx-button-vbox{
+    -fx-background-color:  #264a6e;
+    -fx-border-color: white;
+    -fx-border-width: 0 0 0 0;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+    -fx-background-radius: 10px; /* Zakulacuje rohy tlačítka */
+
+}
+
+.jfx-button-vbox:hover{
+    -fx-border-width: 0 0 1 0;
+}
+
+.fx-option{
+    -fx-background-color:  #1c1d1d;
+    -fx-background-radius: 35;
+}
+
+.fx-option-text{
+    -fx-background-color:  transparent;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-alignment: center;
+}
+
+.jfx-button-dalsi {
+    -fx-background-color: #67eb34; /* Barva pozadí pro zelene tlačítko */
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.6), 5, 0, 0, 1); /* Přidá stín tlačítku */
+    -fx-font-size: 25px; /* Nastaví velikost písma */
+    -fx-background-radius: 10px; /* Zakulacuje rohy tlačítka */
+    -fx-font-weight: bold; /* Nastaví písmo na tučné */
+    -fx-text-fill: #000000; /* Nastaví barvu textu na černou */
+}
+
+.jfx-button-ukoncitHru {
+    -fx-background-color: #ff0000; /* Barva pozadí pro cervene tlačítko */
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.6), 5, 0, 0, 1); /* Přidá stín tlačítku */
+    -fx-font-size: 16px; /* Nastaví velikost písma */
+    -fx-background-radius: 10px; /* Zakulacuje rohy tlačítka */
+    -fx-font-weight: bold; /* Nastaví písmo na tučné */
+    -fx-text-fill: #000000; /* Nastaví barvu textu na černou */
+}
+
+.paneHraciText{
+    -fx-font-size: 20px;
+    -fx-text-fill: white;
+    -fx-background-color:  #1c1d1d;
+    -fx-background-radius: 10px; /* Zakulacuje rohy tlačítka */
+}
+
+.player-marked {
+    -fx-background-color: #67eb34;
+    -fx-border-color: black;
+    -fx-text-fill: #000000;
+}
+
+

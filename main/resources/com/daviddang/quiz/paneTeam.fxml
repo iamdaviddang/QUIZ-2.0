@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import de.jensd.fx.glyphs.fontawesome.FontAwesomeIcon?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+
+<AnchorPane prefHeight="338.0" prefWidth="569.0" stylesheets="@style.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.daviddang.quiz.NastaveniController">
+   <children>
+      <VBox layoutX="45.0" layoutY="97.0" prefHeight="143.0" prefWidth="169.0" spacing="15.0">
+         <children>
+            <TextField fx:id="teamField1" promptText="Team 1" />
+            <TextField fx:id="teamField2" promptText="Team 2" />
+            <TextField fx:id="teamField3" promptText="Team 3" />
+            <TextField fx:id="teamField4" promptText="Team 4" />
+         </children>
+      </VBox>
+      <JFXButton layoutX="242.0" layoutY="135.0" onAction="#ulozitTeamyDoSouboru" styleClass="jfx-button-start" stylesheets="@style.css" text="Uložit">
+         <graphic>
+            <FontAwesomeIcon iconName="SAVE" />
+         </graphic></JFXButton>
+      <VBox layoutX="348.0" layoutY="97.0" prefHeight="145.0" prefWidth="169.0" spacing="15.0">
+         <children>
+            <TextField fx:id="teamField5" promptText="Team 5" />
+            <TextField fx:id="teamField6" promptText="Team 6" />
+            <TextField fx:id="teamField7" promptText="Team 7" />
+            <TextField fx:id="teamField8" promptText="Team 8" />
+         </children>
+      </VBox>
+   </children>
+</AnchorPane>
